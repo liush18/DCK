@@ -14,3 +14,14 @@ Shuai Liu
 
 lsh@apm.ac.cn
 
+
+
+## Data Quality
+
+From GPS week 2127
+
+2127 : reinitialization G01 in DOW 5
+
+2128 : reinitialization G30 in DOW 2
+
+2129 : reinitialization G24 in DOW 2, G27 in DOW 3; abnormal G17 from 23h in DOW 4; instable G11, G21 in DOW 5; like reinitialization G24 in DOW 6
