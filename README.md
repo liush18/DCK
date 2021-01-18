@@ -31,3 +31,5 @@ From GPS week 2127
 2131 : reinitialization G32 in DOW 2, G21 in DOW 5
 
 2132 : abnormal G21 from 0h to 3h in DOW 0, like reinitialization G21 in DOW 1 and DOW 4, reinitialization G08 in DOW 5
+
+2133 : abnormal G26 at the end of DOW 1, G02 G21 in DOW 3, G21 in DOW 5
