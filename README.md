@@ -39,3 +39,5 @@ From GPS week 2127
 2135 : 
 
 2136 : 
+
+2137 : instable G26 in DOW 0, like reinitialization G25 in DOW 2
