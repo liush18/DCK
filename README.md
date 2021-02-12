@@ -48,3 +48,5 @@ From GPS week 2127
 
 2140 : instable G20 at last three hours in 4, like reinitialization G22 in DOW 6
 
+2141 : like reinitialization G22 in 0, G23 in 2, G03 G10 in 3
+
