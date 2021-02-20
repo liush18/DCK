@@ -50,3 +50,5 @@ From GPS week 2127
 
 2141 : like reinitialization G22 in 0, G23 in 2, G03 G10 in 3
 
+2142 : drift G27 at about last one hour in 3
+
