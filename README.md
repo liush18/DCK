@@ -4,6 +4,19 @@ Decoupled clocks are arranged in this order:
 
 Code clock (s),	Phase clock (s), 	Wide-lane bias (cycle) and their STDs.
 
+## Update
+
+### 2021-09-08
+
+1. Change the file extension from dck to clk;
+
+2. Update AR strategy from week **2143** to avoid clock instability.
+
+**Bug** :  
+
+The header file is incomplete, but it does not affect the use of the clocks. 
+
+Abnormal satellites are not effectively rejected, for example G08 in week 2143 dow 5. 
 
 
 
@@ -12,9 +25,11 @@ Code clock (s),	Phase clock (s), 	Wide-lane bias (cycle) and their STDs.
 
 Shuai Liu
 
+lsnav@foxmail.com
+
 lsh@apm.ac.cn
 
-
+Innovation Academy for Precision Measurement Science and Technology, Chinese Academy of Sciences
 
 ## Data Quality
 
@@ -51,4 +66,6 @@ From GPS week 2127
 2141 : like reinitialization G22 in 0, G23 in 2, G03 G10 in 3
 
 2142 : drift G27 at about last one hour in 3
+
+2143: abnormal satellite G08 in dow 5, first one hour
 
