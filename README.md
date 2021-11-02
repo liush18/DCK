@@ -27,8 +27,6 @@ Shuai Liu
 
 lsnav@foxmail.com
 
-lsh@apm.ac.cn
-
 Innovation Academy for Precision Measurement Science and Technology, Chinese Academy of Sciences
 
 ## Data Quality
@@ -67,5 +65,6 @@ From GPS week 2127
 
 2142 : drift G27 at about last one hour in 3
 
-2143: abnormal satellite G08 in dow 5, first one hour
+2143 : abnormal satellite G08 in dow 5, first one hour
 
+2144 :
